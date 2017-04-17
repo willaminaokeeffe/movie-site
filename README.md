@@ -1,7 +1,7 @@
 # movie-site
 
 ## Introduction
-This project creates a movie website which shows the movie title, release year, and movie trailer.
+This project creates a movie website which shows the movie title, release year, movie poster, and movie trailer.
 
 ## Code Example
 `class Movie():` in the media.py file defines the required information for instances of the class (`movie_title`, `movie_storyline`, `poster_image`, `trailer_youtube`, and `release_year`).
